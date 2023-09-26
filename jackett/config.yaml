@@ -43,4 +43,4 @@ environment:
 backup_exclude:
 - '*.txt'
 init: false
-image: ghcr.io/TheBlackMini/jackett/{arch}
+image: ghcr.io/theblackmini/jackett/{arch}

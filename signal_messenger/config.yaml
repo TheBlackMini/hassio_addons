@@ -24,4 +24,4 @@ schema:
   reset_data: bool?
 environment:
   SIGNAL_CLI_CONFIG_DIR: /data
-image: ghcr.io/TheBlackMini/signal_messenger/{arch}
+image: ghcr.io/theblackmini/signal_messenger/{arch}
