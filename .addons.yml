@@ -4,8 +4,8 @@ addons:
   signal_messenger:
     repository: TheBlackMini/signal-addon
     target: signal
-    image: ghcr.io/haberda/signal_messenger/{arch}
+    image: ghcr.io/TheBlackMini/signal_messenger/{arch}
   jackett:
     repository: TheBlackMini/jackett-addon
     target: jackett
-    image: ghcr.io/haberda/jackett/{arch}
+    image: ghcr.io/TheBlackMini/jackett/{arch}
